@@ -13,7 +13,9 @@
   ],
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava tests/*.js --verbose",
+    "test:watch": "ava tests/*.js --verbose --watch",
+    "ava": "ava --verbose"
   },
   "main": "index.js",
   "bin": {
@@ -31,6 +33,7 @@
     "ytdl-core": "^0.20.2"
   },
   "devDependencies": {
+    "ava": "^1.0.0-beta.3",
     "eslint": "^4.7.2"
   }
 }
