@@ -12,7 +12,8 @@
     "download"
   ],
   "scripts": {
-    "start": "node index.js",
+    "prestart": "npm install",
+    "start": "node index.js init",
     "test": "ava tests/*.js --verbose",
     "test:watch": "ava tests/*.js --verbose --watch",
     "ava": "ava --verbose"
