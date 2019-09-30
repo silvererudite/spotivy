@@ -27,7 +27,7 @@ If you want to develop/solve issues for spotivy follow these steps if you are ne
 7. Finnaly create a `pull request` to  ```develop``` branch
 
 ***
-### Note: the base branch for PRs is develop
+### Note: the base branch for PRs is **develop**
 If any of the above mentioned steps seem unfamiliar to you then refer to [git docs](https://git-scm.com/docs) for help and also our maintainers.
 
 Lastly, thanks a bunch for helping this project grow.
