@@ -24,10 +24,10 @@ If you want to develop/solve issues for spotivy follow these steps if you are ne
 4. write descriptive `commit` messages 
 5. make sure to test your code before you send a PR
 6. `Push` to your remote branch
-7. Finnaly create a `pull request` to  ```develop``` branch
+7. Finally create a `pull request` to  ```develop``` branch
 
 ***
-### Note: the base branch for PRs is **develop**
+### Note: the base branch for PRs is develop
 If any of the above mentioned steps seem unfamiliar to you then refer to [git docs](https://git-scm.com/docs) for help and also our maintainers.
 
 Lastly, thanks a bunch for helping this project grow.
